@@ -1,0 +1,26 @@
+{
+  "id": "83999043-127a-4735-b7ef-5e290806e2bf",
+  "name": "BC Docker Containers",
+  "publisher": "TComTech publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 60000,
+      "to": 60100
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://BCDockerContainers.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
